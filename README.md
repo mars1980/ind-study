@@ -1,5 +1,5 @@
 # Ecology of Space - Independent Study
-####NYU ITP Spring 2015
+####NYU ITP Spring 2015 ITPG-GT 2110-001 
 ---
 ##Schedule + Milestones
 We'll meet 3 more times throughout the course of the semester. Once to dicuss project proposals, another to discuss our work in progress, and a final meeting for project presentations. I'll be availabe via email and will be commenting on the weekly blog posts. Dates subject to change
