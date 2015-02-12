@@ -1,7 +1,11 @@
 # ITPG-GT 2110-001 - Independent Study
-####Ecology of Space, NYU ITP Spring 2015 
-
+####Ecology of Space |  NYU ITP Spring 2015 
 ---
+[Weekly Readings](http://mars1980.github.io/Space/schedule.html) |
+[Bibliography](http://mars1980.github.io/Space/Bibliography.html) |
+[Kristen's Blog](http://itp.nyu.edu/~kmb445/blog/?cat=18) |
+[Matthew's Blog]()
+
 ##Schedule + Milestones
 We'll meet 3 more times throughout the course of the semester. Once to dicuss project proposals, another to discuss our work in progress, and a final meeting for project presentations. I'll be availabe via email and will be commenting on the weekly blog posts. Dates subject to change
 
@@ -22,7 +26,7 @@ We'll meet 3 more times throughout the course of the semester. Once to dicuss pr
 **Ex:**  Examining your subway commute: issues of personal space? Why are the chairs a certain way? Designed from spatial perspective or behavioral perspective? How does having poles in certain places change how people act? What are the spatial politics of these spaces? What mechanisms of power are being hidden, subverted, or enforced?
 
 ####Final Project
-Using the spatial practice you've developed on a weekly basis, critically examine and intervene upon  a space, whether public, private, virtual, or someplace in between. The final project will be broken down into the following components:
+Using the spatial practice you've developed on a weekly basis, critically examine and intervene upon  a space, whether public, private, virtual, or someplace in between. Please also attend one session of [crit group](http://itp.nyu.edu/groups/crit/) in the month of April. The final project will be broken down into the following components:
 
 1. **Statement of Inquiry** -  Write a blog post outlining what you are interested in exploring for your final project. Think about place, methodology, and sociopolitical agendas. What are the questions you are interested in addressing? How does spatial practice enable you to tackle those questions? What's your trajectory? What do you want to spend the next 10 weeks exploring?
 2. **Research** -  What's been done, What are the tools, What is the 'data set' you'll be working with?
