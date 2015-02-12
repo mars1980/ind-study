@@ -52,3 +52,8 @@ Friday, Feb. 27, 6 pm:  These Images Won’t Tell You What You Want:  Collaborat
 Saturday, Feb 28: Windows from Prison workshop led by Mark Strandquist. 
 
 March 12, 6 pm: Visualizing Carceral Space. A talk by Josh Begley
+
+##Grading
+50% weekly blog posts
+
+50% final project
