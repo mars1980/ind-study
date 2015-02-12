@@ -6,10 +6,10 @@ We'll meet 3 more times throughout the course of the semester. Once to dicuss pr
 
 1. **Statement of Inquiry** - (2.17) 
 2. **Research** - (3.23)  
-3. **Proposal** - (3.9) 
-4. **In Progress Meeting** -  (4.6)
+3. **Proposal** - (3.9)  - Meet as a group
+4. **In Progress Meeting** -  (4.6) - Meet as a group
 5. **Crit Group** - (Anytime in  April)
-6. **Final Project Presentations** - (5.4)
+6. **Final Project Presentations** - (5.4) Meet as a group
 
 ##Assignments
 ####Weekly Blogging Assignments
