@@ -36,3 +36,8 @@ Using the spatial practice you've developed on a weekly basis, critically examin
   3. Central question or questions posed by the work
 4.  **In Progress Meeting** - group in progress crit
 5.  **Final Project Critiques** - Presentation of Final Project to guest critics. Please also submit documentation of projects and a blog post statement about the work onto your blogs. 
+
+##Events, Shows, Workshops, etc.
+####Shows
+**Moving Walls 22** 'Watching you, Watching me' [link](http://www.opensocietyfoundations.org/moving-walls/22)
+show that explores the intersection between surveillance and photography
