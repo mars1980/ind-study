@@ -7,7 +7,9 @@ We'll meet 3 more times throughout the course of the semester. Once to dicuss pr
 1. **Statement of Inquiry** - (2.17) 
 2. **Research** - (3.23)  
 3. **Proposal** - (3.9) 
-4. **In Progress Meeting** - 
+4. **In Progress Meeting** -  (4.6)
+5. **Crit Group** - (Anytime in  April)
+6. **Final Project Presentations** - (5.4)
 
 ##Assignments
 ####Weekly Blogging Assignments
@@ -28,4 +30,4 @@ Using the spatial practice you've developed on a weekly basis, critically examin
   2. Timeline and Production Schedule
   3. Central question or questions posed by the work
 4.  **In Progress Meeting** - group in progress crit
-5.  **Final Project Critiques** - Presentation of Final Project
+5.  **Final Project Critiques** - Presentation of Final Project to guest critics. Please also submit documentation of projects and a blog post statement about the work onto your blogs. 
