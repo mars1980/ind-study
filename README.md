@@ -2,18 +2,12 @@
 ####NYU ITP Spring 2015
 ---
 ##Schedule + Milestones
-We'll meet 3 more times throughout the course of the semester. Once to dicuss project proposals, another to discuss our work in progress, and a final meeting for project presentations. I'll be availabe via email and will be commenting on the weekly blog posts. 
+We'll meet 3 more times throughout the course of the semester. Once to dicuss project proposals, another to discuss our work in progress, and a final meeting for project presentations. I'll be availabe via email and will be commenting on the weekly blog posts. Dates subject to change
 
-1. **Statement of Inquiry** - (2.17) -  Write a blog post outlining what you are interested in exploring for your final project. Think about place, methodology, and sociopolitical agendas. What are the questions you are interested in addressing? How does spatial practice enable you to tackle those questions? What's your trajectory? What do you want to spend the next 10 weeks exploring?
-2. **Research** - (3.23) - Write a blog post outlining what's been done in your area of inquiry. Highlight any projects you are inspired by or data sets you are interested in working with. 
-3. **Proposal** - (3.9) - Write a blog post outlining your final project proposal. We'll meet this week to discuss each other's proposals. Include the following information:
-  1. Description of Work 
-  2. Timeline and Production Schedule
-  3. Central question or questions posed by the work
+1. **Statement of Inquiry** - (2.17) 
+2. **Research** - (3.23)  
+3. **Proposal** - (3.9) 
 4. **In Progress Meeting** - 
-
-
-
 
 ##Assignments
 ####Weekly Blogging Assignments
@@ -27,8 +21,11 @@ We'll meet 3 more times throughout the course of the semester. Once to dicuss pr
 ####Final Project
 Using the spatial practice you've developed on a weekly basis, critically examine and intervene upon  a space, whether public, private, virtual, or someplace in between. The final project will be broken down into the following components:
 
-1. **Statement of Inquiry** - what you are interested in thematically, technically, and want to accomplish in terms of developing a a project that utilizes a spatial practice?
+1. **Statement of Inquiry** -  Write a blog post outlining what you are interested in exploring for your final project. Think about place, methodology, and sociopolitical agendas. What are the questions you are interested in addressing? How does spatial practice enable you to tackle those questions? What's your trajectory? What do you want to spend the next 10 weeks exploring?
 2. **Research** -  What's been done, What are the tools, What is the 'data set' you'll be working with?
-3.  **Proposal** - Outlining project including what the work will look like, investigate, and where it will live. Also will include a production schedlue outlining timelines and project milestones.
+3.  **Proposal** - Write a blog post outlining your final project proposal. We'll meet this week to discuss each other's proposals. Include the following information:
+  1. Description of Work 
+  2. Timeline and Production Schedule
+  3. Central question or questions posed by the work
 4.  **In Progress Meeting** - group in progress crit
 5.  **Final Project Critiques** - Presentation of Final Project
