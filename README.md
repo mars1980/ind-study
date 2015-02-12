@@ -38,6 +38,16 @@ Using the spatial practice you've developed on a weekly basis, critically examin
 5.  **Final Project Critiques** - Presentation of Final Project to guest critics. Please also submit documentation of projects and a blog post statement about the work onto your blogs. 
 
 ##Events, Shows, Workshops, etc.
-####Shows
-**Moving Walls 22** 'Watching you, Watching me' [link](http://www.opensocietyfoundations.org/moving-walls/22)
-show that explores the intersection between surveillance and photography
+Shows
+####Moving Walls 22 'Watching you, Watching me'
+[link](http://www.opensocietyfoundations.org/moving-walls/22)
+show that explores the intersection between surveillance and photography. Show ends May 8th 2015
+
+####Prison Obscura
+Sheila Johnson Design Gallery [link](http://www.newschool.edu/pressroom/pressreleases/2015/PrisonObscura.htm)
+
+Friday, Feb. 27, 6 pm:  These Images Won’t Tell You What You Want:  Collaborative Photography and Social Justice. A talk by Mark Strandquist.
+
+Saturday, Feb 28: Windows from Prison workshop led by Mark Strandquist. 
+
+March 12, 6 pm: Visualizing Carceral Space. A talk by Josh Begley
