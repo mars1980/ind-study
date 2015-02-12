@@ -38,7 +38,7 @@ Using the spatial practice you've developed on a weekly basis, critically examin
 5.  **Final Project Critiques** - Presentation of Final Project to guest critics. Please also submit documentation of projects and a blog post statement about the work onto your blogs. 
 
 ##Events, Shows, Workshops, etc.
-Shows
+
 ####Moving Walls 22 'Watching you, Watching me'
 [at the Open Society Foundation. Show ends May 8th 2015](http://www.opensocietyfoundations.org/moving-walls/22)
 
