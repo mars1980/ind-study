@@ -40,12 +40,13 @@ Using the spatial practice you've developed on a weekly basis, critically examin
 ##Events, Shows, Workshops, etc.
 Shows
 ####Moving Walls 22 'Watching you, Watching me'
-[show that explores the intersection between surveillance and photography. Show ends May 8th 2015](http://www.opensocietyfoundations.org/moving-walls/22)
+[at the Open Society Foundation. Show ends May 8th 2015](http://www.opensocietyfoundations.org/moving-walls/22)
 
 
 ####Prison Obscura
  [at the Sheila Johnson Design Gallery](http://www.newschool.edu/pressroom/pressreleases/2015/PrisonObscura.htm)
 
+#####Events
 Friday, Feb. 27, 6 pm:  These Images Won’t Tell You What You Want:  Collaborative Photography and Social Justice. A talk by Mark Strandquist.
 
 Saturday, Feb 28: Windows from Prison workshop led by Mark Strandquist. 
