@@ -1,2 +1,3 @@
-# ind-study
-Independent Study - Ecology of Space 
+# Ecology of Space - Independent Study
+####NYU, ITP, Spring 2015
+ 
