@@ -18,7 +18,7 @@ We'll meet 3 more times throughout the course of the semester. Once to dicuss pr
 
 ##Assignments
 ####Weekly Blogging Assignments
-1. **Readings:** Post a short response to the readings weekly. Please post by Sunday evenings to give me enough time to read and comment. 
+1. **Readings:** Post a short response to the readings weekly. Please post by Sunday evenings to give me enough time to read and comment. Readings will continue to be posted on the previous class blog by the week. 
 2. **Field Journal:**  Field journals are a away to experiment and play in developing a spatial practice. They are a way to chart your weekly progress in terms of putting the readings and research into practice. Use this prompt as a starting point and see what develops from there:
  1. Using research, direct observation, and artistic experimentation - examine, interrogate and intervene on a specific place that is a common/daily part of your life. Use whatever methodologies are most comfortable to you: programming, drawing, writing, sound recording, etc. Also, as your practice progress, take on experimental forms of mapping, describing, and disrupting that space. The space is up to you but should be a specific, definable, and a space that you engage with regularly. Think about medium and how your medium translates to spatial practice. Seek out new ways to create space. 
  
@@ -47,6 +47,7 @@ Using the spatial practice you've developed on a weekly basis, critically examin
  [at the Sheila Johnson Design Gallery](http://www.newschool.edu/pressroom/pressreleases/2015/PrisonObscura.htm)
 
 #####Events
+######optional
 Friday, Feb. 27, 6 pm:  These Images Won’t Tell You What You Want:  Collaborative Photography and Social Justice. A talk by Mark Strandquist.
 
 Saturday, Feb 28: Windows from Prison workshop led by Mark Strandquist. 
