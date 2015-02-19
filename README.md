@@ -3,8 +3,8 @@
 ---
 [Weekly Readings](http://mars1980.github.io/Space/schedule.html) |
 [Bibliography](http://mars1980.github.io/Space/Bibliography.html) |
-[Kristen's Blog](http://itp.nyu.edu/~kmb445/blog/?cat=18) |
-[Matthew's Blog]()
+[Kristen Barry - Blog](http://itp.nyu.edu/~kmb445/blog/?cat=18) |
+[Matthew Kaney -  Blog](http://itp.mindofmatthew.com/?cat=369)
 
 ##Schedule + Milestones
 We'll meet 3 more times throughout the course of the semester. Once to dicuss project proposals, another to discuss our work in progress, and a final meeting for project presentations. I'll be availabe via email and will be commenting on the weekly blog posts. Dates subject to change
