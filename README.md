@@ -10,7 +10,7 @@
 We'll meet 3 more times throughout the course of the semester. Once to dicuss project proposals, another to discuss our work in progress, and a final meeting for project presentations. I'll be availabe via email and will be commenting on the weekly blog posts. Dates subject to change
 
 1. **Statement of Inquiry** - (2.17) 
-2. **Research** - (3.23)  
+2. **Research** - (2.23)  
 3. **Proposal** - (3.9)  - Meet as a group
 4. **In Progress Meeting** -  (4.6) - Meet as a group
 5. **Crit Group** - (Anytime in  April)
